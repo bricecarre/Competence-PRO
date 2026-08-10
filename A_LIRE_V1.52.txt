@@ -1,0 +1,12 @@
+COMPÉTENCES PRO V1.52 — DÉPLACEMENTS LIBRES
+
+- Plus aucune validation ou confirmation après un déplacement.
+- Le relâchement de la souris enregistre immédiatement la position.
+- La cible est maintenant la cellule réellement située sous la souris, et non un calcul basé sur le décalage de l'image.
+- Les dernières semaines à droite de la frise sont accessibles.
+- Auto-défilement horizontal lorsque la souris approche du bord gauche ou droit.
+- Une évaluation peut changer de semaine ET d'année.
+- Une PFMP peut changer de semaine ET d'année.
+- Une séquence peut également changer de semaine ET d'année.
+- En cas de changement d'année d'une PFMP alors qu'une PFMP existe déjà dans l'année cible, les deux années sont échangées pour conserver une PFMP par année.
+- Les vacances et PFMP continuent de rendre une semaine invalide pour une évaluation : elle se place alors automatiquement sur la semaine valide la plus proche.
